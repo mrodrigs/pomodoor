@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8155a4a7fcb07ec308f334c44b9c25e7",
+    "revision": "fe3c531d10d64f220ff71b5e93cf3329",
     "url": "/pomodoor/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pomodoor/static/css/2.a72c35d3.chunk.css"
   },
   {
-    "revision": "bb4d06e38676d0691ea2",
+    "revision": "1acb37709431003168ec",
     "url": "/pomodoor/static/css/main.21be664a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pomodoor/static/js/2.25cb6935.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb4d06e38676d0691ea2",
-    "url": "/pomodoor/static/js/main.0775ad27.chunk.js"
+    "revision": "1acb37709431003168ec",
+    "url": "/pomodoor/static/js/main.4600b483.chunk.js"
   },
   {
     "revision": "45416f2c530b4cab61f9",

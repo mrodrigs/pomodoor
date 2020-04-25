@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pomodoor/static/css/main.21be664a.chunk.css",
-    "main.js": "/pomodoor/static/js/main.0775ad27.chunk.js",
-    "main.js.map": "/pomodoor/static/js/main.0775ad27.chunk.js.map",
+    "main.js": "/pomodoor/static/js/main.4600b483.chunk.js",
+    "main.js.map": "/pomodoor/static/js/main.4600b483.chunk.js.map",
     "runtime-main.js": "/pomodoor/static/js/runtime-main.fd4a9923.js",
     "runtime-main.js.map": "/pomodoor/static/js/runtime-main.fd4a9923.js.map",
     "static/css/2.a72c35d3.chunk.css": "/pomodoor/static/css/2.a72c35d3.chunk.css",
     "static/js/2.25cb6935.chunk.js": "/pomodoor/static/js/2.25cb6935.chunk.js",
     "static/js/2.25cb6935.chunk.js.map": "/pomodoor/static/js/2.25cb6935.chunk.js.map",
     "index.html": "/pomodoor/index.html",
-    "precache-manifest.23bdab32dbd150720b35a165624cfa84.js": "/pomodoor/precache-manifest.23bdab32dbd150720b35a165624cfa84.js",
+    "precache-manifest.0790aa5d3beeb8113fa292eba2c1605a.js": "/pomodoor/precache-manifest.0790aa5d3beeb8113fa292eba2c1605a.js",
     "service-worker.js": "/pomodoor/service-worker.js",
     "static/css/2.a72c35d3.chunk.css.map": "/pomodoor/static/css/2.a72c35d3.chunk.css.map",
     "static/css/main.21be664a.chunk.css.map": "/pomodoor/static/css/main.21be664a.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.a72c35d3.chunk.css",
     "static/js/2.25cb6935.chunk.js",
     "static/css/main.21be664a.chunk.css",
-    "static/js/main.0775ad27.chunk.js"
+    "static/js/main.4600b483.chunk.js"
   ]
 }
