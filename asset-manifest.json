@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pomodoor/static/css/main.21be664a.chunk.css",
+    "main.js": "/pomodoor/static/js/main.9b37ceee.chunk.js",
+    "main.js.map": "/pomodoor/static/js/main.9b37ceee.chunk.js.map",
+    "runtime-main.js": "/pomodoor/static/js/runtime-main.d5b09b9b.js",
+    "runtime-main.js.map": "/pomodoor/static/js/runtime-main.d5b09b9b.js.map",
+    "static/css/2.a72c35d3.chunk.css": "/pomodoor/static/css/2.a72c35d3.chunk.css",
+    "static/js/2.9606bcb5.chunk.js": "/pomodoor/static/js/2.9606bcb5.chunk.js",
+    "static/js/2.9606bcb5.chunk.js.map": "/pomodoor/static/js/2.9606bcb5.chunk.js.map",
+    "index.html": "/pomodoor/index.html",
+    "precache-manifest.13535bc770f26146a06e762140c7a5e8.js": "/pomodoor/precache-manifest.13535bc770f26146a06e762140c7a5e8.js",
+    "service-worker.js": "/pomodoor/service-worker.js",
+    "static/css/2.a72c35d3.chunk.css.map": "/pomodoor/static/css/2.a72c35d3.chunk.css.map",
+    "static/css/main.21be664a.chunk.css.map": "/pomodoor/static/css/main.21be664a.chunk.css.map",
+    "static/js/2.9606bcb5.chunk.js.LICENSE.txt": "/pomodoor/static/js/2.9606bcb5.chunk.js.LICENSE.txt",
+    "static/media/bell.mp3": "/pomodoor/static/media/bell.c1aa54ab.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5b09b9b.js",
+    "static/css/2.a72c35d3.chunk.css",
+    "static/js/2.9606bcb5.chunk.js",
+    "static/css/main.21be664a.chunk.css",
+    "static/js/main.9b37ceee.chunk.js"
+  ]
+}
