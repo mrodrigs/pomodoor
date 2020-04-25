@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pomodoor/precache-manifest.09dd0d7a8affe89a6001079937a33e6d.js"
+  "/pomodoor/precache-manifest.23bdab32dbd150720b35a165624cfa84.js"
 );
 
 self.addEventListener('message', (event) => {
