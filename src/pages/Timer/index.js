@@ -22,17 +22,17 @@ export default function Timer () {
 
   const menu = (
     <Menu>
-      <Menu.Item onClick={() => {setInitialTime(15); setFocusing(true)}}>
+      <Menu.Item onClick={() => {setInitialTime(1500); setFocusing(true)}}>
         <span>
           Focus
         </span>
       </Menu.Item>
-      <Menu.Item onClick={() => {setInitialTime(3); setFocusing(false)}}>
+      <Menu.Item onClick={() => {setInitialTime(300); setFocusing(false)}}>
         <span>
           Break
         </span>
       </Menu.Item>
-      <Menu.Item onClick={() => {setInitialTime(9); setFocusing(false)}}>
+      <Menu.Item onClick={() => {setInitialTime(900); setFocusing(false)}}>
         <span>
           Long Break
         </span>
