@@ -1,0 +1,29 @@
+.white-text.ant-progress .ant-progress-text {
+    color: #f5f5f5;
+}
+
+.white-text.ant-progress-circle.ant-progress-status-success .ant-progress-text {
+    color: #f5f5f5;
+}
+
+.ant-slider .ant-slider-step {
+    background: #311b92;
+}
+
+.ant-slider .ant-slider-step {
+    background: #311b92;
+}
+
+.ant-slider .ant-slider-handle {
+    background: #311b92;
+    border-color: #b71c1c;
+}
+
+.ant-slider .ant-slider-handle:focus {
+    background: #311b92;
+    border-color: #fa3636 !important;
+}
+
+.ant-slider-handle.ant-tooltip-open {
+    border-color: #fa3636 !important;
+}
